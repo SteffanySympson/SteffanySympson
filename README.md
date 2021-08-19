@@ -6,7 +6,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=SteffanySympson&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteffanySympson&&layout=compact&hide=shell&theme=jolly"/>
 
-   <img align="center" width="148" height="180" src="https://media4.giphy.com/media/G1yDy5iC17OO6WIsua/giphy.gif?cid=790b7611b4b7d678a5154655a9315b34c6ad0f6d4b5b54ce&rid=giphy.gif&ct=g">
+   <img align="center" width="148" height="180" src="https://media4.giphy.com/media/G1yDy5iC17OO6WIsua/giphy.gifcid=790b7611b4b7d678a5154655a9315b34c6ad0f6d4b5b54ce&rid=giphy.gif&ct=g">
 </div>
  <br>
 <div  align="center"> 
