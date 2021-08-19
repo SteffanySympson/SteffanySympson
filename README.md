@@ -6,8 +6,9 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=SteffanySympson&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteffanySympson&&layout=compact&hide=shell&theme=jolly"/>
 
-   ><p><a href="https://giphy.com/gifs/codelikeagirl-girldev-G1yDy5iC17OO6WIsua">via GIPHY</a></p>
 </div>
+  
+  <iframe src="https://giphy.com/embed/G1yDy5iC17OO6WIsua" width="480" height="290" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/codelikeagirl-girldev-G1yDy5iC17OO6WIsua"> </a></p>
  <br>
 <div  align="center"> 
   
