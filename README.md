@@ -6,7 +6,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=SteffanySympson&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteffanySympson&&layout=compact&hide=shell&theme=jolly"/>
 
-   <div style="width:100%;height:0;padding-bottom:60%;position:relative;"><iframe src="https://giphy.com/embed/G1yDy5iC17OO6WIsua" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/codelikeagirl-girldev-G1yDy5iC17OO6WIsua">via GIPHY</a></p>
+   ><p><a href="https://giphy.com/gifs/codelikeagirl-girldev-G1yDy5iC17OO6WIsua">via GIPHY</a></p>
 </div>
  <br>
 <div  align="center"> 
