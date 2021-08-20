@@ -7,7 +7,7 @@
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteffanySympson&&layout=compact&hide=shell&theme=jolly"/>
   
 </div>
-  <img align="center" width="180" height="140" src="https://media1.tenor.com/images/786b777cc4cfa553e6e1359d86f41845/tenor.gif?itemid=22766722">
+  <img align="center" width="280" height="240" src="https://media1.tenor.com/images/786b777cc4cfa553e6e1359d86f41845/tenor.gif?itemid=22766722">
     
  <br>
 <div  align="center"> 
