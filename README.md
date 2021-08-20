@@ -8,7 +8,7 @@
   
 </div>
   <div>
-  <img align="center" width="340" height="180" src="https://media1.tenor.com/images/786b777cc4cfa553e6e1359d86f41845/tenor.gif?itemid=22766722">
+  <img align="center" width="340" height="200" src="https://media1.tenor.com/images/786b777cc4cfa553e6e1359d86f41845/tenor.gif?itemid=22766722">
   </div>
   <div style="display: inline_block">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
